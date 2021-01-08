@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: print-dashed-lines
+Version: 0.0.1
+Summary: A single function that takes two parameters and prints dashed lines
+Home-page: UNKNOWN
+Author: Dalton Abraham
+Author-email: nojackie9@gmail.com
+License: UNKNOWN
+Description: # Print Dashed Lines
+        
+        This is a simple package that currently contains a single function, print_dashed_lines(), which can be used in all projects to create better segmented terminal output.  This is currently incorporated in many of my projects under a services.py file, but could be used directly in your main files.
+        
+        Please visit [the github page](https://github.com/acecode116/print_dashed_lines) for more details and code review. :D
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,7 @@
+README.md
+setup.py
+print_dashed_lines.egg-info/PKG-INFO
+print_dashed_lines.egg-info/SOURCES.txt
+print_dashed_lines.egg-info/dependency_links.txt
+print_dashed_lines.egg-info/top_level.txt
+python_services/__init__.py
